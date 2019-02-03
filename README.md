@@ -16,6 +16,6 @@ for number in range (1,101):
         
     if a == '' :
     
-        a = number
+        a = number                # you can use also: a += str (number) to make the code more understandable.
         
     print (a)
